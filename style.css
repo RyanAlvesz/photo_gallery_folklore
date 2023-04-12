@@ -77,7 +77,7 @@ img[alt~=logo]{
 
 .foto:nth-child(2){
     grid-area: f2;
-    background-image: url(./img/img3.jpg);
+    background-image: url(./img/img13.png);
 }
 
 .foto:nth-child(3){
@@ -159,8 +159,8 @@ footer {
     background-color: #808080;
     align-items: center;
     width: 150px;
-    height: 40px;
-    font-size: 1.3em;
+    height: 50px;
+    font-size: 1.4em;
     display: flex;
     justify-content: center;
 }
