@@ -90,22 +90,22 @@ h1{
 
 .foto:nth-child(5){
     grid-area: f5;
-    background-image: url(/img/img1.jfif);
+    background-image: url(./img/img1.jfif);
 }
 
 .foto:nth-child(6){
     grid-area: f6;
-    background-image: url(/img/img4.jpg);
+    background-image: url(./img/img4.jpg);
 }
 
 .foto:nth-child(7){
     grid-area: f7;
-    background-image: url(/img/img2.jpg);
+    background-image: url(./img/img2.jpg);
 }
 
 .foto:nth-child(8){
     grid-area: f8;
-    background-image: url(/img/img9.jpg);
+    background-image: url(./img/img9.jpg);
 }
 
 
