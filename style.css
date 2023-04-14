@@ -31,7 +31,7 @@ header {
 h1{
     width: 100%;
     font-style: italic;
-    color: #383838;
+    color: #212121;
     font-size: 3.5em;
 }
 
@@ -121,7 +121,7 @@ h1{
     transform: translateY(100%);
     transition: 1s;
     color: white;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 0px;
     display: grid;
 }
 
@@ -154,7 +154,7 @@ footer {
 
 .ver__mais {
     border-radius: 50px;
-    background-color: #808080;
+    background-color: #6b6b6b;
     align-items: center;
     width: 150px;
     height: 50px;
@@ -169,14 +169,14 @@ footer {
 }
 
 .ver__mais:hover {
-    background-color: #a1a1a1;
+    background-color: #787878;
     border-style: solid;
-    border-color: #808080;
+    border-color: #6b6b6b;
     transform: scale(1.1);
 }
 
 
-/* REPONSIVIDADE */
+/* RESPONSIVIDADE */
 
 
 @media (max-width:768px){
@@ -185,6 +185,7 @@ footer {
         height: auto;
         padding-right: 24px;
         padding-left: 24px;
+        background-position: center;
     }
 
     .galeria{
