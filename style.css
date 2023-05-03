@@ -121,7 +121,7 @@ h1{
     transform: translateY(100%);
     transition: 1s;
     color: white;
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 0px;
     display: grid;
 }
 
